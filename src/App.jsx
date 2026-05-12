@@ -153,7 +153,7 @@ export default function App() {
 
       {/* FLOATING WHATSAPP */}
       <a
-        href="https://wa.me/905555555555"
+        href="https://wa.me/905392832065"
         target="_blank"
         className="fixed bottom-6 right-6 z-50 bg-green-500 p-4 rounded-full shadow-2xl hover:scale-110 transition duration-300"
       >
