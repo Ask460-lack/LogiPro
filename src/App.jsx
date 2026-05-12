@@ -588,8 +588,8 @@ export default function App() {
                 </a>
 
                 <a
-                  href="tel:+905555555555"
-                  className="flex justify-center items-center gap-2 bg-green-600 hover:bg-green-700 text-white py-4 rounded-2xl transition duration-300"
+                  href="tel:+905392832065"
+                  className="flex justify-center items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl transition duration-300"
                 >
                   <Phone size={20} />
 
@@ -597,9 +597,9 @@ export default function App() {
                 </a>
 
                 <a
-                  href="https://wa.me/905555555555"
+                  href="https://wa.me/905392832065"
                   target="_blank"
-                  className="flex justify-center items-center gap-2 bg-black text-white py-4 rounded-2xl transition duration-300"
+                  className="flex justify-center items-center gap-2 bg-green-600 hover:bg-green-700 text-white py-4 rounded-2xl transition duration-300"
                 >
                   <MessageCircle size={20} />
 
