@@ -153,7 +153,7 @@ export default function App() {
 
       {/* FLOATING WHATSAPP */}
       <a
-        href="https://wa.me/905392832065"
+        href="https://wa.me/905442030662"
         target="_blank"
         className="fixed bottom-6 right-6 z-50 bg-green-500 p-4 rounded-full shadow-2xl hover:scale-110 transition duration-300"
       >
@@ -227,7 +227,7 @@ export default function App() {
 
         {/* MOBILE MENU */}
         {mobileMenu && (
-          <div className="md:hidden bg-white px-5 pb-5">
+          <div className="md:hidden bg-white px-5 py-5">
 
             <div className="flex flex-col gap-4">
 
@@ -588,7 +588,7 @@ export default function App() {
                 </a>
 
                 <a
-                  href="tel:+905392832065"
+                  href="tel:+905442030662"
                   className="flex justify-center items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl transition duration-300"
                 >
                   <Phone size={20} />
@@ -597,7 +597,7 @@ export default function App() {
                 </a>
 
                 <a
-                  href="https://wa.me/905392832065"
+                  href="https://wa.me/905442030662"
                   target="_blank"
                   className="flex justify-center items-center gap-2 bg-green-600 hover:bg-green-700 text-white py-4 rounded-2xl transition duration-300"
                 >
